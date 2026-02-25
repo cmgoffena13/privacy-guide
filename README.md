@@ -6,7 +6,7 @@ I created this guide to keep track of my knowledge around personal privacy/secur
 Security is tailored towards protecting yourself from unauthorized access, whether that be your devices or online accounts. Privacy is tailored towards protecting yourself from being identified, tracked, targeted, and/or more easily manipulated by technology companies and the government.
 
 ## The Cardinal Sin
-Any service/device (only exceptionis Google's "Results About You" and authenticator apps) offered or owned by Google or Microsoft. They extract way too much information.
+Any service/device (only exception is Google's "Results About You" and authenticator apps) offered or owned by Google or Microsoft. They extract way too much information.
 
 # Security
 ## Password Manager
@@ -95,7 +95,7 @@ Blocklists are lists of URLs that will be blocked. They are normally associated 
  - <a href="privacytools.io">PrivacyTools</a>  
  - <a href="privacyguides.org">PrivacyGuides</a>
  - <a href="https://www.nbtv.media/episodes/privacy-101">NBTV</a>
- - https://www.securemessagingapps.com
- - Linux PC: https://system76.com/pop/
- - Firewall Vault: https://protectli.com
+    - https://www.securemessagingapps.com
  - *Extreme Privacy: What It Takes To Disappear* by Michael Bazzell
+     - Linux PC: https://system76.com/pop/
+    - Firewall Vault: https://protectli.com
