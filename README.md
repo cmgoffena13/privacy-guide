@@ -13,7 +13,10 @@ Any service/device (only exception is Google's "Results About You" and authentic
 A password manager allows you to easily create unique and effective passwords without recalling them manually (from memory). This allows for separation of each of your online accounts by creating a unique password for each. Just make sure your password to access your password manager is really good & memorable and you keep your recovery codes secure.
 
 ## 2FA
-Two Factor Authentication (2FA) is an additional safeguard to access online accounts that will either send you an SMS to your phone with a code to verify its really you (less preferred) or ask for an authentication code that you can provide by accessing an authenticator app (more preferred).
+Two Factor Authentication (2FA) is an additional safeguard to access online accounts that will either send you an SMS to your phone with a code to verify its really you (less preferred) or ask for an authentication code that you can provide by accessing an authenticator app (more preferred). Setup 2FA on all:
+ - Financial Accounts
+ - Email Accounts
+ - Any Accounts where major financial impact can occur (AWS/GCP/Azure Accounts) 
 
 ### Authenticator Apps
 Remember to back up your codes so if you lose your phone you're good.
@@ -70,6 +73,12 @@ Blocklists are lists of URLs that will be blocked. They are normally associated 
 
 ## VPN Service
  - ProtonVPN
+
+## Data Broker Cleaners
+
+## Spam Reduction
+### Do Not Contact (Phone Number)
+### Do Not Contact (Junk Mail)
 
 # Education
 
